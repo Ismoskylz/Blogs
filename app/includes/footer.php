@@ -8,7 +8,7 @@
                     It is a digital food paradise that offers a wide variety of recipes, cooking tips, and culinary delights. 
                 </p>
                 <div class="contact">
-                    <span><i class="fa fa-phone" aria-hidden="true">&nbsp;98282121212</i></span>
+                    <span><i class="fa fa-phone" aria-hidden="true">&nbsp;+44 7721672610</i></span>
                     <span><i class="fa fa-envelope" aria-hidden="true">&nbsp;info@tastyfoods.com</i></span>
                 </div>
                 <div class="socials">
