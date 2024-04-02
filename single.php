@@ -17,7 +17,7 @@ $posts = selectAll('posts', ['published' => 1]);
         <!-- Font Awesome -->
         <!-- <script src="https://kit.fontawesome.com/54c3ca3ad6.js" crossorigin="anonymous"></script>  -->
 
-        <title>Tasty Food | <?php echo $post['title'] ;?></title>
+        <title>Tasty Foods | <?php echo $post['title'] ;?></title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 

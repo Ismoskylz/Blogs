@@ -25,7 +25,7 @@ if(isset($_GET['t_id'])) {
         <!-- Font Awesome -->
         <!-- <script src="https://kit.fontawesome.com/54c3ca3ad6.js" crossorigin="anonymous"></script>  -->
 
-        <title>Tasty Food</title>
+        <title>Tasty Foods</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
