@@ -50,6 +50,6 @@
 
         </div>
         <div class="footer-bottom">
-            &copy; Testy Food | Designed by ISMAIL OPEYEMI OLADEJO 
+            &copy; Tasty Foods | Designed by ISMAIL OPEYEMI OLADEJO 
         </div>
       </div>
