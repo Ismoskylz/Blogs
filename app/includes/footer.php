@@ -2,7 +2,7 @@
         <div class="footer-content">
 
             <div class="footer-section about">
-                <h1 class="logo-text"><span>Tasty</span> Food</h1>
+                <h1 class="logo-text"><span>Tasty</span> Foods</h1>
                 <p>
                     Tasty Foods is a dynamic digital platform that aims to excite taste buds and inspire culinary adventures.
                     It is a digital food paradise that offers a wide variety of recipes, cooking tips, and culinary delights. 
